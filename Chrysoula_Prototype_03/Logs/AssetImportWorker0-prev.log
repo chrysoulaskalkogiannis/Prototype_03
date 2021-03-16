@@ -1,0 +1,466 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 8174 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Github/Prototype_03/Chrysoula_Prototype_03
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53974
+Successfully changed project path to: D:/Github/Prototype_03/Chrysoula_Prototype_03
+D:/Github/Prototype_03/Chrysoula_Prototype_03
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Github/Prototype_03/Chrysoula_Prototype_03/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   
+    VRAM:     4043 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56504
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002154 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.385 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001791 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.203 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.8 MB.
+System memory in use after: 57.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1618.
+Total: 2.161300 ms (FindLiveObjects: 0.232600 ms CreateObjectMapping: 0.061600 ms MarkObjects: 1.761300 ms  DeleteObjects: 0.104000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Vehicle Physics Pro/Sdk
+  artifactKey: Guid(3fd1d9c7660c84b438a6d3ddfff0b4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sdk using Guid(3fd1d9c7660c84b438a6d3ddfff0b4d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aee9888b2efbac0687107d8569a035c1') in 0.010075 seconds
+  Import took 0.012551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Vehicle Physics Pro
+  artifactKey: Guid(935ca758bded2464bad889b19ad09beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro using Guid(935ca758bded2464bad889b19ad09beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fda7cabd7a472583525775bcee661e') in 0.009048 seconds
+  Import took 0.012178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002374 seconds.
+  path: Assets/Vehicle Physics Pro/Sdk/VehiclePhysics.dll
+  artifactKey: Guid(b8873f7cd5fec6f49a4b37228b9b23ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sdk/VehiclePhysics.dll using Guid(b8873f7cd5fec6f49a4b37228b9b23ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6134877dfa9605168c9897490ea54719') in 0.029389 seconds
+  Import took 0.031976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.056830 seconds.
+  path: Assets/Vehicle Physics Pro/Sdk/Fonts
+  artifactKey: Guid(5d532303e8c5d12409394aef34a25e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sdk/Fonts using Guid(5d532303e8c5d12409394aef34a25e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae664afc8cb2167d6805ffdfd155361') in 0.008672 seconds
+  Import took 0.011307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066679 seconds.
+  path: Assets/Vehicle Physics Pro/Sdk/Fonts/VeraMono.ttf
+  artifactKey: Guid(68e91a955efe04085922337eb01d7626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sdk/Fonts/VeraMono.ttf using Guid(68e91a955efe04085922337eb01d7626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406fe063146d8b6564de126e4c7cfe58') in 0.157304 seconds
+  Import took 0.159918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.152210 seconds.
+  path: Assets/Vehicle Physics Pro/Sdk/Editor
+  artifactKey: Guid(30f72dbc873eb8b46ada6a702656e3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sdk/Editor using Guid(30f72dbc873eb8b46ada6a702656e3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b109ead8be6492fa1f591962de3d06e6') in 0.008710 seconds
+  Import took 0.011231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.436052 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets
+  artifactKey: Guid(94ff76e0d3e91c6458a825d02280870b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets using Guid(94ff76e0d3e91c6458a825d02280870b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39db115e833420a14fc3e541fed564e8') in 0.008757 seconds
+  Import took 0.011414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.185104 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Scenes
+  artifactKey: Guid(4fa7ad0c691e8db4db2ebc3b309f10af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Scenes using Guid(4fa7ad0c691e8db4db2ebc3b309f10af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '686258cada01e6918306525be0edc938') in 0.008613 seconds
+  Import took 0.011373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.836194 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Scripts
+  artifactKey: Guid(e1d538ee78aebe14fb310cf2a1250c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Scripts using Guid(e1d538ee78aebe14fb310cf2a1250c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d5ee772af09691eea47125b0ee4a28d') in 0.007793 seconds
+  Import took 0.010562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.006583 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Scripts/Utility
+  artifactKey: Guid(16f685ff22882694e9c73bb132719d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Scripts/Utility using Guid(16f685ff22882694e9c73bb132719d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36e4bd8f41d5b7929ea9b42e65dc0e62') in 0.007777 seconds
+  Import took 0.010517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.655181 seconds.
+  path: Assets/Vehicle Physics Pro/VPP Project Settings
+  artifactKey: Guid(96798ee156cc2eb49bdd3e8674925bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/VPP Project Settings using Guid(96798ee156cc2eb49bdd3e8674925bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b4ff65ee90f26f03d55e0d59d039153') in 0.008817 seconds
+  Import took 0.011511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.714856 seconds.
+  path: Assets/Vehicle Physics Pro/Scenes
+  artifactKey: Guid(80843f7e128d71742b833b6a04824dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Scenes using Guid(80843f7e128d71742b833b6a04824dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175031d190b8069e2989c437306086a8') in 0.002339 seconds
+  Import took 0.005395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.118360 seconds.
+  path: Assets/Vehicle Physics Pro/Vehicles
+  artifactKey: Guid(8b25e0b642aed5542bca7e669db71351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Vehicles using Guid(8b25e0b642aed5542bca7e669db71351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b50b25f22764c818e44702a8c303d579') in 0.007698 seconds
+  Import took 0.010284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.922123 seconds.
+  path: Assets/Vehicle Physics Pro/Vehicles/JPickup
+  artifactKey: Guid(837564dca3dd5b1429bf12ffe6cbc847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Vehicles/JPickup using Guid(837564dca3dd5b1429bf12ffe6cbc847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9657d3899d606684fcf1a50511713b') in 0.007528 seconds
+  Import took 0.010160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000636 seconds.
+  path: Assets/Vehicle Physics Pro/Vehicles/JPickup
+  artifactKey: Guid(837564dca3dd5b1429bf12ffe6cbc847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Vehicles/JPickup using Guid(837564dca3dd5b1429bf12ffe6cbc847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9657d3899d606684fcf1a50511713b') in 0.002696 seconds
+  Import took 0.004966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069561 seconds.
+  path: Assets/Vehicle Physics Pro/Vehicles/JPickup/VPP JPickup.prefab
+  artifactKey: Guid(4a383ea4a8bde554a81e12745897d28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Vehicles/JPickup/VPP JPickup.prefab using Guid(4a383ea4a8bde554a81e12745897d28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6a5f92f146599742d7906a7e48eaa3') in 1.513244 seconds
+  Import took 1.517580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052784 seconds.
+  path: Assets/Vehicle Physics Pro/Vehicles/JPickup/Meshes
+  artifactKey: Guid(1fb47088ee05938439947693ef01994e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Vehicles/JPickup/Meshes using Guid(1fb47088ee05938439947693ef01994e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15bad4e2b4d2fb84139b52a2be3d0231') in 0.008476 seconds
+  Import took 0.010996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059414 seconds.
+  path: Assets/Vehicle Physics Pro/Vehicles/JPickup/Meshes/JPickup collider.fbx
+  artifactKey: Guid(79f44124211771242bccee52082843be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Vehicles/JPickup/Meshes/JPickup collider.fbx using Guid(79f44124211771242bccee52082843be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2714bd68ea123a5d518aeaea9fae0377') in 0.086142 seconds
+  Import took 0.088838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Vehicle Physics Pro/Vehicles/JPickup/Meshes/JPickup mesh prefab.prefab
+  artifactKey: Guid(69835530ee5dc774588858f474b40571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Vehicles/JPickup/Meshes/JPickup mesh prefab.prefab using Guid(69835530ee5dc774588858f474b40571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4726f9ad7a866fa2d0ba90cb30fc8c') in 0.052615 seconds
+  Import took 0.056592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Vehicle Physics Pro/Vehicles/JPickup/Meshes/JPickup.fbx
+  artifactKey: Guid(b8a269fadb4a68b4ab1cc4f12b9ddded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Vehicles/JPickup/Meshes/JPickup.fbx using Guid(b8a269fadb4a68b4ab1cc4f12b9ddded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '925e2cf61f76846989b3ebfd2882213d') in 0.432789 seconds
+  Import took 0.436846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.700823 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs
+  artifactKey: Guid(945e1634f9cda2346b4046edfd04b879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs using Guid(945e1634f9cda2346b4046edfd04b879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da02cb71a6c19617925d8b1c02e7e993') in 0.008323 seconds
+  Import took 0.010888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042951 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Camera Controller.prefab
+  artifactKey: Guid(08bcacdc13ed1d648bde90a28ef6ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Camera Controller.prefab using Guid(08bcacdc13ed1d648bde90a28ef6ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ada823f21636c7f21280b2dbe215725') in 0.016493 seconds
+  Import took 0.019108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Track Panels 200-50.prefab
+  artifactKey: Guid(23b89a65507516c4daea6586d494defc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Track Panels 200-50.prefab using Guid(23b89a65507516c4daea6586d494defc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af2a9c1a0139ea1f17108cd16d2f296') in 0.026708 seconds
+  Import took 0.029487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Playground Small.prefab
+  artifactKey: Guid(13bb7c7ea4722c945b8a26eab00a55e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Playground Small.prefab using Guid(13bb7c7ea4722c945b8a26eab00a55e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '557c849eb877a0d79f53dc4d91b82be9') in 0.323716 seconds
+  Import took 0.332257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Flat straight 50 Km x 100 m.prefab
+  artifactKey: Guid(9917b28f937e37b40b67a9290c73ab4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Flat straight 50 Km x 100 m.prefab using Guid(9917b28f937e37b40b67a9290c73ab4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f4a9932b6ac80c4d9c93ea2a84eec3d') in 0.159576 seconds
+  Import took 0.171994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/SceneTools.prefab
+  artifactKey: Guid(2cd00faae1c08854f97acb5a87bb5f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs/SceneTools.prefab using Guid(2cd00faae1c08854f97acb5a87bb5f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647928e4fb56d37465fec3d9ec3e4dff') in 0.015386 seconds
+  Import took 0.018146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Track Sector Structure.prefab
+  artifactKey: Guid(fba9017539f784944a12e4d8cfc1483f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Track Sector Structure.prefab using Guid(fba9017539f784944a12e4d8cfc1483f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fa9af4618bc62413131fd4c92f2b06') in 0.024241 seconds
+  Import took 0.026955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Track Start Structure.prefab
+  artifactKey: Guid(89871ece83329ed448900444b085cad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Track Start Structure.prefab using Guid(89871ece83329ed448900444b085cad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef0800240a7fd5c8f749263d3fe7a23') in 0.020052 seconds
+  Import took 0.022694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/The City.prefab
+  artifactKey: Guid(a6915defa8c64aed8ac0da13068a8d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs/The City.prefab using Guid(a6915defa8c64aed8ac0da13068a8d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5bf98f83edb3ff1e2876571bbbf5db0') in 0.604323 seconds
+  Import took 0.609559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Playground 1000x1000 + 50km long straight Variant.prefab
+  artifactKey: Guid(3aef1e688b8b7cb4c9c6de3605887f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Playground 1000x1000 + 50km long straight Variant.prefab using Guid(3aef1e688b8b7cb4c9c6de3605887f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '605e8f6f5a7dab2e88943dba27251d8c') in 0.786075 seconds
+  Import took 0.803742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Car Audio.prefab
+  artifactKey: Guid(0ba239054da355345bc3be88be60af08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Car Audio.prefab using Guid(0ba239054da355345bc3be88be60af08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b502375b19953775cfeaef7426989a') in 0.010906 seconds
+  Import took 0.013760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Playground 1000x1000.prefab
+  artifactKey: Guid(ab6d091c7e79cb54da30ca320d86cd44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Prefabs/Playground 1000x1000.prefab using Guid(ab6d091c7e79cb54da30ca320d86cd44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f7113f835d1998171fe77b6021bad2d') in 0.055953 seconds
+  Import took 0.060185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.324543 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Physic Materials
+  artifactKey: Guid(be2e8556569bdad4a84835aa4eb6112a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Physic Materials using Guid(be2e8556569bdad4a84835aa4eb6112a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647eda30c0289f5e3baac912ffb5a610') in 0.007351 seconds
+  Import took 0.010162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Physic Materials
+  artifactKey: Guid(be2e8556569bdad4a84835aa4eb6112a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Physic Materials using Guid(be2e8556569bdad4a84835aa4eb6112a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647eda30c0289f5e3baac912ffb5a610') in 0.002483 seconds
+  Import took 0.004810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.354860 seconds.
+  path: Assets/Vehicle Physics Pro/Sample Assets/Locations
+  artifactKey: Guid(95d97f40bb6d51f4f986eccc3aec78db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vehicle Physics Pro/Sample Assets/Locations using Guid(95d97f40bb6d51f4f986eccc3aec78db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19749a959bdeabd86f4ec2264c6d6c5') in 0.007634 seconds
+  Import took 0.010584 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000720 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.571 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.7 MB.
+System memory in use after: 66.7 MB.
+
+Unloading 78 unused Assets to reduce memory usage. Loaded Objects now: 1600.
+Total: 1.950500 ms (FindLiveObjects: 0.241500 ms CreateObjectMapping: 0.062000 ms MarkObjects: 1.545700 ms  DeleteObjects: 0.099600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.9 MB.
+System memory in use after: 67.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1602.
+Total: 2.287400 ms (FindLiveObjects: 0.141700 ms CreateObjectMapping: 0.045400 ms MarkObjects: 2.034500 ms  DeleteObjects: 0.064500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001529 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.214 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1449 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 80.6 MB.
+System memory in use after: 78.8 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 1942.
+Total: 4.050600 ms (FindLiveObjects: 0.205000 ms CreateObjectMapping: 0.054900 ms MarkObjects: 2.203300 ms  DeleteObjects: 1.586000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001347 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.642 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1569 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 2037.
+Total: 6.567200 ms (FindLiveObjects: 0.298100 ms CreateObjectMapping: 0.084500 ms MarkObjects: 3.054400 ms  DeleteObjects: 3.127600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
