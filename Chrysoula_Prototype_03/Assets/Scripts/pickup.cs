@@ -8,18 +8,7 @@ public class pickup : MonoBehaviour
   public string tag;
   public Vector3 rotation = new Vector3(1.0f,0,0);
 
-
-  private void OnCollisionEnter(Collision collision)
-{
-    if (collision.collider.gameObject.tag == "pickup")
-    {
-
-        Destroy(collision.collider.gameObject);
-
-
-    }
-
-}
+  public AudioSource audioSource;
 
 
 
@@ -27,6 +16,8 @@ public class pickup : MonoBehaviour
     void Start()
     {
 
+
+      audioSource = GetComponent<AudioSource> ();
     }
 
     // Update is called once per frame
@@ -34,4 +25,18 @@ public class pickup : MonoBehaviour
     {
         this.GetComponent<Transform>().Rotate(rotation);
     }
+
+    private void OnCollisionEnter(Collision collision)
+  {
+      if (collision.collider.gameObject.tag == "pickup")
+      {
+
+          Destroy(collision.collider.gameObject);
+          audioSource.Play ();
+
+      }
+
+  }
+
+
 }

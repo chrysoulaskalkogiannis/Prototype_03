@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Song1/GameMode1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Song1/GameMode2.unity
+    guid: 975b000bdf2b99f46989ae1c42042761
   m_configObjects: {}
