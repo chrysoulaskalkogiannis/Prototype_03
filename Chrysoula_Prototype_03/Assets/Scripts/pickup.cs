@@ -12,6 +12,7 @@ public class pickup : MonoBehaviour
 
 
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -33,6 +34,7 @@ public class pickup : MonoBehaviour
 
           Destroy(collision.collider.gameObject);
           audioSource.Play ();
+          score.scoreAmount += 1;
 
       }
 
