@@ -28,12 +28,12 @@ public class LoadMenu : MonoBehaviour
 
     }
 
-    private void OnCollisionEnter(Collision collision)
+    private void OnCollisionEnter(Collision coll)
   {
-      if (collision.collider.gameObject.tag == "pickup")
+      if (coll.gameObject.tag == "exit")
       {
 //          Application.sce("MainMenu");
-          SceneManager.LoadScene ("MainMenu");
+          Application.LoadLevel("MainMenu");
 
       }
 

@@ -6,6 +6,7 @@ TagManager:
   tags:
   - SpawnTrigger
   - pickup
+  - exit
   layers:
   - Default
   - TransparentFX
