@@ -15,10 +15,11 @@ public class score : MonoBehaviour
     {
           scoreText = GetComponent<Text>();
           scoreAmount = 0;
+
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         scoreText.text = "Score: " + scoreAmount;
     }
